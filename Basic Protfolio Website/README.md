@@ -19,4 +19,4 @@ Professional portfolio website featuring projects, skills, and experience.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/LavyaTandel/Basic-Protfolio-Website.git
